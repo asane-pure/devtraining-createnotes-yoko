@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget">
+    <m2m_sp_ng_pro_sp_widget action="DELETE">
+        <sp_angular_provider display_value="spPreview">1b3599b25b3312000d7ec7ad31f91add</sp_angular_provider>
+        <sp_widget display_value="Notes List">06948fa8db3133000613a08a4896194c</sp_widget>
+        <sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-22 14:36:50</sys_created_on>
+        <sys_id>3d5a5bf347986250190be481e36d43a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>spPreview.Notes List</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_3d5a5bf347986250190be481e36d43a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-22 14:36:50</sys_updated_on>
+    </m2m_sp_ng_pro_sp_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>dee2ea463bf39e109aefe747f4e45a5f</instance_id>
+        <instance_name>dev297471</instance_name>
+        <name>m2m_sp_ng_pro_sp_widget_3d5a5bf347986250190be481e36d43a9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget"><m2m_sp_ng_pro_sp_widget action="INSERT_OR_UPDATE"><sp_angular_provider display_value="spPreview">1b3599b25b3312000d7ec7ad31f91add</sp_angular_provider><sp_widget display_value="Notes List">06948fa8db3133000613a08a4896194c</sp_widget><sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-22 14:36:50</sys_created_on><sys_id>3d5a5bf347986250190be481e36d43a9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>spPreview.Notes List</sys_name><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>m2m_sp_ng_pro_sp_widget_3d5a5bf347986250190be481e36d43a9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-22 14:36:50</sys_updated_on></m2m_sp_ng_pro_sp_widget></record_update>]]></payload>
+        <payload_hash>-825106496</payload_hash>
+        <record_name>spPreview.Notes List</record_name>
+        <reverted_from/>
+        <source>460967d447182210190be481e36d435d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-22 14:36:50</sys_created_on>
+        <sys_id>355a5bf347986250190be481e36d43ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195be49028d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-22 14:36:50</sys_updated_on>
+        <type>Angular Providers</type>
+        <update_guid>395a5bf370986250e0dd4e3ea05821ac</update_guid>
+        <update_guid_history>395a5bf370986250e0dd4e3ea05821ac:-825106496</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="spPreview.Notes List">7d9a1b7747986250190be481e36d438f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-22 14:37:56</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_ng_pro_sp_widget">m2m_sp_ng_pro_sp_widget</sys_db_object>
+        <sys_id>5c1522740d8a4fc2a64f1d870d199a29</sys_id>
+        <sys_metadata>3d5a5bf347986250190be481e36d43a9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>spPreview.Notes List</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_3d5a5bf347986250190be481e36d43a9</sys_update_name>
+        <sys_update_version display_value="m2m_sp_ng_pro_sp_widget_3d5a5bf347986250190be481e36d43a9">355a5bf347986250190be481e36d43ad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-22 14:37:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
